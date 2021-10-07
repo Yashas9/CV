@@ -1,0 +1,7 @@
+h1 {}
+p {font-style: italic;}
+img {
+    width: 240px;
+    border-radius: 50%;
+}
+#aboutme {margin-left: 15px;}
